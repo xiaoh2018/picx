@@ -1,7 +1,7 @@
 <template>
   <div class="page-container feedback-page-container">
     <div class="help-info-item description">
-      PicX 是一款基于 GitHub API & jsDelivr 开发的具有 CDN 加速功能的图床工具。
+      PicUP 是一款基于 GitHub API & jsDelivr 开发的具有 CDN 加速功能的图床工具。
       <br />
       无需下载！无需安装！打开网站即用！免费！极速！稳定！
     </div>
@@ -45,14 +45,8 @@
     </div>
 
     <div class="help-info-item red-text">
-      图片上传缓慢或加载不出来等情况，可借助&nbsp;
-      <el-link
-        style="font-size: 16rem"
-        type="primary"
-        href="https://github.com/Alvin9999/new-pac/wiki"
-        target="_blank"
-        >VPN 工具
-      </el-link>
+      图片上传缓慢或加载不出来等情况可能是网络不支持;
+     
       &nbsp;。
     </div>
 
